@@ -1,0 +1,4 @@
+loadboard STM32G474E-EVAL1 allmodes
+project name STM32CubeMX
+project toolchain "STM32CubeIDE"
+SetCopyLibrary "copy only"
