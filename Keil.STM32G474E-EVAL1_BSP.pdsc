@@ -81,7 +81,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1397-g474e-b04_schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32G474QETx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32G474"/>
       <feature type="ODbg"        n="1"             name="On-board STLINK-V3E"/>
       <feature type="XTAL"        n="24000000"/>
       <feature type="RAM"         n="1"             name="8-Mbit SDRAM (512K x16-bit)"/>
