@@ -41,3 +41,10 @@ project:
     - script:  ./RTE/Device/STM32G474QETx/ac6_linker_script.sct.src
       regions: ./RTE/Device/STM32G474QETx/regions_STM32G474E-EVAL1.h
       for-compiler: AC6
+
+  # List executable file formats to be generated.
+  output:
+    type:
+      - elf
+      - hex
+      - map
